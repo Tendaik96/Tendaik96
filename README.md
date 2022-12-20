@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://www.codewars.com/users/Tendaik96/badges/large" alt="Codewars Badge"/>
 
 <!--
 **Tendaik96/Tendaik96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
