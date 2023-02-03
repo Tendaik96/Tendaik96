@@ -1,6 +1,6 @@
 # Hi there, I'm Tendai👋
 <hr/>
-## I'm a Full Stack Developer
+## I'm a Full Stack Developer.
 
 🌍  I'm based in Bolton, UK
 🖥️  See my portfolio at <a>...Coming Soon</a>
