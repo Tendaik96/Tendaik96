@@ -11,10 +11,14 @@ solutions, eager to leverage skills and knowledge to make an impact as a Junior 
 
 <hr/>
 ## Languages and Tools:
+
 <img src="https://www.codewars.com/users/Tendaik96/badges/large" alt="Codewars Badge"/>
 <hr/>
+
 ## My Tech Stack:
-#### Vanilla Javascript
+
+### Vanilla Javascript
+
 - React
 - Next.js
 - TypeScript
