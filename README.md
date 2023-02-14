@@ -10,6 +10,7 @@ I am a Recent graduate of School Of Code, a 16-week intensive bootcamp course to
 solutions, eager to leverage skills and knowledge to make an impact as a Junior Software Developer and I am excited to learn and grow in a professional setting.
 
 <hr/>
+
 ## Languages and Tools:
 
 <img src="https://www.codewars.com/users/Tendaik96/badges/large" alt="Codewars Badge"/>
@@ -25,5 +26,10 @@ solutions, eager to leverage skills and knowledge to make an impact as a Junior 
 - CSS
 - Node.js (Express)
 - Postgresql
+
+## Where to find me?
+
+- Email: Tendaikaruwo96@gmail.com
+- <a href="https://www.linkedin.com/in/tendai-karuwo-6a1869166/" alt=" Tendai Karuwo's Linkedin Profile" > My LinkedIn </a> 
 
 
