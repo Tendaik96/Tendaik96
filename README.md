@@ -19,14 +19,38 @@ solutions, eager to leverage skills and knowledge to make an impact as a Junior 
 
 ### My Tech Stack:
 
-#### Vanilla Javascript
-
+#### Frontend:
+- JavaScript
 - React
 - Next.js
 - TypeScript
+- HTML
 - CSS
+- Tailwind
+
+#### Backend:
 - Node.js (Express)
 - Postgresql
+- Nodemon
+- Morgan
+
+#### Testing
+- Jest
+- Supertest
+- Cypress
+
+#### Product Management
+- Figma
+- Trello
+- Kanban
+- Miro
+
+#### Tools
+- Git
+- Github
+- Netlify/Render
+- Postman
+- VSCode
 
 
 
