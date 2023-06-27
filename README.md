@@ -3,13 +3,15 @@
 ## A Full Stack Developer.
 
 🌍  I'm based in Bolton, UK
-🖥️  See my portfolio on <a">my website....coming soon</a>
+🖥️  See my portfolio on <a href="">my website....coming soon</a>
 ✉️  You can contact me on tendaikaruwo96@gmail.com or <a href="https://www.linkedin.com/in/tendai-karuwo-6a1869166/" alt=" Tendai Karuwo's Linkedin Profile" > My LinkedIn </a> 
 <hr/>
 I graduated from School Of Code bootcamp, a 16-week intensive bootcamp course to becoming a Full Stack Web Developer. I possess a strong foundation in vanilla JavaScript and JavaScript frameworks and have been honing my skills through self-study, personal projects. I am passionate about solving problems and building innovative
 solutions, eager to leverage skills and knowledge to make an impact as a Junior Software Developer and I am excited to learn and grow in a professional setting.
+<br><br>
 
-I'm currently working on my Gem restaurants project 😊
+### What am I currently building?
+Gem restaurants project 😊, check out the repo below to see my progress
 
 <hr/>
 
