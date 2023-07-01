@@ -2,9 +2,9 @@
 
 ## A Full Stack Developer.
 
-🌍  I'm based in Bolton, UK
-🖥️  See my portfolio on <a href="https://tendai-karuwo.onrender.com/">my website</a>
-✉️  You can contact me on tendaikaruwo96@gmail.com or <a href="https://www.linkedin.com/in/tendai-karuwo-6a1869166/" alt=" Tendai Karuwo's Linkedin Profile" > My LinkedIn </a> 
+🌍  I'm based in Bolton, UK <br>
+🖥️  See my portfolio on <a href="https://tendai-karuwo.onrender.com/">My website</a> <br>
+✉️  You can contact me on <a href="mailto:tendaikaruwo96@gmail.com">My email</a> or <a href="https://www.linkedin.com/in/tendai-karuwo-6a1869166/" alt=" Tendai Karuwo's Linkedin Profile" > My LinkedIn </a> 
 <hr/>
 I graduated from School Of Code bootcamp, a 16-week intensive bootcamp course to becoming a Full Stack Web Developer. I possess a strong foundation in vanilla JavaScript and JavaScript frameworks and have been honing my skills through self-study, personal projects. I am passionate about solving problems and building innovative
 solutions, eager to leverage skills and knowledge to make an impact as a Junior Software Developer and I am excited to learn and grow in a professional setting.
