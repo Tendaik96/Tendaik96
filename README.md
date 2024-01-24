@@ -24,7 +24,6 @@ Gem restaurants project 😊, check out the repo below to see my progress
 #### Frontend:
 - JavaScript
 - React
-- Next.js
 - TypeScript
 - HTML5
 - CSS
