@@ -16,8 +16,9 @@ Gem restaurants project 😊, check out the repo below to see my progress
 <hr/>
 
 ## Languages and Tools:
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=tendaik96&theme=radical&show_icons=true)](https://github.com/tendaik96)
 
-<img src="https://www.codewars.com/users/Tendaik96/badges/large" alt="Codewars Badge"/>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tendaik96&theme=radical)](https://github.com/tendaik96/github-readme-stats)
 
 ### My Tech Stack:
 
