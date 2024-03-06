@@ -49,5 +49,3 @@ Gem restaurants project 😊, check out the repo below to see my progress
 - Postman
 - VSCode
 
-![GitHub Views](https://komarev.com/ghpvc/?username=Tendaik96)
-
