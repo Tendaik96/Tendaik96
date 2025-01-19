@@ -11,7 +11,7 @@ solutions, eager to leverage skills and knowledge to make an impact as a Junior 
 <br><br>
 
 ### What am I currently building?
-Gem restaurants project 😊, check out the repo below to see my progress
+Lucid Clothing ecommerce store.
 
 <hr/>
 
